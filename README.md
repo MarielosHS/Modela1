@@ -1,2 +1,3 @@
 # Modela1
-Tareas del laboratorio de  Modelación y Simulación 1
+Tarea 3 
+Ganancias
